@@ -1,7 +1,6 @@
-
 from openai import OpenAI
 
-client = OpenAI(api_key='sk-proj-uXTeK3jF5LhLCHdgKaEAT3BlbkFJbmmhYydyWf53EnLlMMM1')
+client = OpenAI(api_key='sk-proj-Gxa6OeFmoePlz04nf33sdofsjkFJ00amYaRJhwF7gE0pVLve')
 msgs = []
 msgs.append({"role": "user", "content": "Produce a short summary of this conversation."})
 
